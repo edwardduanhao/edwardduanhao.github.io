@@ -1,6 +1,5 @@
 ## Welcome to my personal website!
 
-<img src="my_picture.jpeg" width="150" style="float: left;"/> <br>
 PhD Student, <br>
 Department of Statistics, <br>
 University of California Los Angeles (UCLA) <br>
