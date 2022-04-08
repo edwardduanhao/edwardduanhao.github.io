@@ -1,10 +1,6 @@
 ## Welcome to my personal website!
 
-[<img src="my_picture.jpeg" width="150"/>]
-
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<img src="my_picture.jpeg" width="150" style="float: left;"/>
 
 PhD Student, <br>
 Department of Statistics, <br>
