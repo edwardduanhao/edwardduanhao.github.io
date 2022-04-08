@@ -1,5 +1,7 @@
 ## Welcome to my personal website!
 
+![Test Image 1](my_picture.jpeg)
+
 PhD Student, <br>
 Department of Statistics, <br>
 University of California Los Angeles (UCLA) <br>
