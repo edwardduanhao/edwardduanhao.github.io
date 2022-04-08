@@ -1,6 +1,6 @@
 ## Welcome to my personal website!
 
-[<img src="my_picture.jpeg" width="250"/>](my_picture.jpeg)
+[<img src="my_picture.jpeg" width="150"/>](my_picture.jpeg)
 
 PhD Student, <br>
 Department of Statistics, <br>
