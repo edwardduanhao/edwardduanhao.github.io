@@ -1,6 +1,6 @@
 ## Welcome to my personal website!
 
-![Test Image 1](my_picture.jpeg=100x20)
+![Test Image 1](my_picture.jpeg){width=20%}
 
 PhD Student, <br>
 Department of Statistics, <br>
