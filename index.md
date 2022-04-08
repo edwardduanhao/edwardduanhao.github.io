@@ -1,9 +1,9 @@
 ## Welcome to my personal website!
 
-PhD Student,
-Department of Statistics,
-University of California Los Angeles (UCLA)
-Pronouns: He/him/his
+PhD Student, //
+Department of Statistics, //
+University of California Los Angeles (UCLA) //
+Pronouns: He/him/his //
 E-mail: hduan7 [@] g.ucla [DOT] edu
 
 
