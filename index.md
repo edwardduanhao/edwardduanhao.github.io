@@ -1,8 +1,13 @@
 ## Welcome to my personal website!
 
-Hi
+PhD Student,
+Department of Statistics,
+University of California Los Angeles (UCLA)
+Pronouns: He/him/his
+E-mail: hduan7 [@] g.ucla [DOT] edu
 
-### Markdown
+
+### About me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
