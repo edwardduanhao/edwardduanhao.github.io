@@ -1,18 +1,11 @@
 ## Welcome to my personal website!
 
-<div>
-<div style="float: left">
 <img src="my_picture.jpeg" width="150" style="float: left;"/> 
-</div>
-<div>
 PhD Student, <br>
 Department of Statistics, <br>
 University of California Los Angeles (UCLA) <br>
 Pronouns: He/him/his <br>
 E-mail: hduan7 [@] g.ucla [DOT] edu
-</div>
-</div>
-
 
 
 
