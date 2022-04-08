@@ -1,8 +1,8 @@
 ## Welcome to my personal website!
 
-[<img src="1" width="150"/>](my_picture.jpeg)
+[<img src="my_picture.jpeg" width="150"/>]
 
-img src="markdownmonstericon.png"
+<img src="markdownmonstericon.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
